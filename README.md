@@ -58,7 +58,7 @@
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rupeshprajapati2123&theme=react-dark)](https://github.com/Rupeshprajapati2123/github-readme-activity-graph)
+[![Rupesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rupeshprajapati2123&theme=react-dark)](https://github.com/Rupeshprajapati2123/github-readme-activity-graph)
 
   
 
