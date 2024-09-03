@@ -9,11 +9,13 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Rupesh Prajapati**, currently pursuing my bachelors from IIT Roorkee in *Chemical Engineering*. <br>
+✔️ I am **Rupesh Prajapati**, An Alumni of **IIT Roorkee**.<br>
 
-✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
+✔️ I am currently working as blockchain engineer at **0xZeeve**.<br>
 
-✔️ I have experience in FULL stack web & App development .<br>
+✔️ I am interested in web3 development and have am experienced in Rust, Golang, Typescript, Python. <br>
+
+✔️ I am also experienced in software packages like Geth, polygon CDK, cosmos SDK etc and also in Devops .<br>
 
 
 <br>
