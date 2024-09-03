@@ -11,8 +11,6 @@
 
 ✔️ I am **Rupesh Prajapati**, An Alumni of **IIT Roorkee**.<br>
 
-✔️ I am currently working as blockchain engineer at **0xZeeve**.<br>
-
 ✔️ I am interested in web3 development and have am experienced in Rust, Golang, Typescript, Python. <br>
 
 ✔️ I am also experienced in software packages like Geth, polygon CDK, cosmos SDK etc and also in Devops .<br>
