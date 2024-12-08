@@ -36,29 +36,29 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshprajapati2123&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBr4nd0&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/Rupeshprajapati2123/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/DioBr4nd0/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=Rupeshprajapati2123)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=DioBr4nd0)  
  
  
  <hr>
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupeshprajapati2123&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DioBr4nd0&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Rupesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rupeshprajapati2123&theme=react-dark)](https://github.com/Rupeshprajapati2123/github-readme-activity-graph)
+[![Rupesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DioBr4nd0&theme=react-dark)](https://github.com/Rupeshprajapati2123/github-readme-activity-graph)
 
   
 
