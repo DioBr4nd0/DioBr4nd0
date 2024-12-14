@@ -20,7 +20,6 @@
 
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
 
 
 <!-- SOCAIL MEDIA HANDLES -->
