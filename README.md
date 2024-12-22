@@ -57,7 +57,7 @@
 ---
  
 <!-- ACTIVITY GRAPH TRACKER -->
-[![Rupesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DioBr4nd0&theme=react-dark)](https://github.com/Rupeshprajapati2123/github-readme-activity-graph)
+[![Rupesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DioBr4nd0&theme=react-dark)](https://github.com/DioBr4nd0/github-readme-activity-graph)
 
   
 
