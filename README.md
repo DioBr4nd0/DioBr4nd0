@@ -45,7 +45,7 @@
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=DioBr4nd0&show icons=true&theme=radical)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=DioBr4nd0&show_icons=true&theme=radical)  
  
  
  <hr>
