@@ -54,14 +54,6 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DioBr4nd0&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
----
- 
-<!-- ACTIVITY GRAPH TRACKER -->
-[![Rupesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DioBr4nd0&theme=react-dark)](https://github.com/DioBr4nd0/github-readme-activity-graph)
-
-  
-
----
   </code>
 </p>
 
