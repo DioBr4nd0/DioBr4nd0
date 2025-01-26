@@ -35,7 +35,7 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBr4nd0&hide=javascript,css,scss,html&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBr4nd0&layout=donut-vertical)](https://github.com/DioBr4nd0/github-readme-stats)
  
  ---
  
