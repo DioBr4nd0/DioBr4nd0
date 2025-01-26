@@ -35,7 +35,7 @@
  
  
 <!--  TOP LANGUAGES STATISTICS -->
-[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBr4nd0&layout=donut-vertical&hide=html,javascript)]
+[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBr4nd0&layout=donut-vertical&hide=html)]
  
  ---
  
