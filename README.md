@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Rupesh Prajapati**, An Alumni of **IIT Roorkee**.<br>
+✔️ I am **Rupesh Prajapati**.<br>
 
 ✔️ I am interested in web3 development and have am experienced in Rust, Golang, Typescript, Python. <br>
 
