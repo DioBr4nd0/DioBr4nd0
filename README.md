@@ -11,9 +11,9 @@
 
 ✔️ I am **Rupesh Prajapati**. IIT Roorkee Alumnus<br>
 
-✔️ I am interested in web3 development and have am experienced in Rust, Golang, Typescript, Python. <br>
+✔️ I am proficient in web3 and have am experienced in Rust & Golang. <br>
 
-✔️ I am also experienced in software packages like Geth, polygon CDK, cosmos SDK ,Devops etc .<br>
+✔️ I am also experienced in software packages like Geth, Polkadot, Substrate, Wasm(web assembly), parachains, rollups, polygon CDK, cosmos SDK ,Devops etc .<br>
 
 
 <br>
