@@ -13,7 +13,7 @@
 
 ✔️ I am proficient in web3 and have am experienced in Rust & Golang. <br>
 
-✔️ I am also experienced in software packages like Geth, Polkadot, Substrate, Wasm(web assembly), parachains, rollups, polygon CDK, cosmos SDK ,Devops etc .<br>
+✔️ I am also experienced in software packages like Geth, Polkadot, Substrate, Wasm(web assembly), parachains, rollups, Linu Kernel(eBPF) ,Devops etc .<br>
 
 
 <br>
