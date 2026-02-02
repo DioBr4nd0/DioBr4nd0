@@ -3,19 +3,29 @@
 
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>👋 Good to have you here!!</h2>
+<h2 align="center">👋 Good to have you here!!</h2>
 
-
-<!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Rupesh Prajapati**. IIT Roorkee Alumnus<br>
+✔️ I am **Rupesh Prajapati**, an IIT Roorkee Alumnus driven by an obsessive curiosity for how software *really* works—from the web3 to the cognitive loops of autonomous agents.<br>
 
-✔️ I am proficient in web3 and systems and have am experienced in Rust & Golang. <br>
+✔️ **The Intersection:** I engineer **High-Performance Systems** where **Web3 (Solana/Rust)** meets **Agentic AI**. Who loves to automate boring tasks with AI.<br>
 
-✔️ I am also experienced in software packages like Geth, Polkadot, Substrate, Wasm(web assembly), parachains, rollups, Linu Kernel(eBPF) ,Devops etc .<br>
+✔️ **Current Technical Focus:**
+   * **Agentic Workflows:** Designing self-healing agents with **Multimodal capabilities** (Vision + Text) that can "see" and navigate interfaces.
+   * **Structured Intelligence:** Enforcing strict schema outputs (Pydantic/JSON) to turn chaotic LLM reasoning into reliable system actions.
+   * **Systems Architecture:** Leveraging **Rust**, **Golang**, and **Wasm** for low-latency execution in browser automation and distributed networks.
 
+✔️ Few AI projects I built:
+  1. The Self-Rewriting Resume Agent: A fully autonomous LaTeX pipeline that contextually tailors my CV to any Job Description URL in seconds.
+  2. The "Meme-Lord" Content Bot: An agentic Instagram publisher that visually curates, quality-checks, and posts Reddit content completely hands-free.
+  3. The "Style-Snatcher" Engine: A local visual-search agent that bypasses e-commerce APIs to find product matches across Amazon & Flipkart using only image inputs.
 
+✔️ Defi Web3 projects I built:
+  1. NetShield: A bare-metal packet firewall built with eBPF (the same bytecode engine used in Solana's Sealevel runtime). It sits in front of the kernel for high-performance packet parsing. [Featured in eBPF Weekly] blog link: [!(https://diobr4nd0.github.io/2025/06/27/Understanding-Network-Packet-Offsets-Safe-Parsing-in-eBPF/)].
+  2. LogBet: A decentralized prediction market on Solana implementing the LMSR (Logarithmic Market Scoring Rule) algorithm for automated market making in Rust.
+  3. Cero (Zeeve): Architected the first decentralized sequencer network for Rollups, focusing on removing single points of failure and mitigating MEV risks.
+  and many more...
 <br>
 
 
