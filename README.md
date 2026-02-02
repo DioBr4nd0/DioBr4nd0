@@ -6,26 +6,23 @@
 <h2 align="center">👋 Good to have you here!!</h2>
 
 🌱 **About myself**<br>
+I am **Rupesh Prajapati** (IIT Roorkee), a curious Engineer sitting at the intersection of **High-Performance Web3** and **Agentic AI**.
 
-✔️ I am **Rupesh Prajapati**, an IIT Roorkee Alumnus driven by an obsessive curiosity for how software *really* works—from the web3 to the cognitive loops of autonomous agents.<br>
+---
 
-✔️ **The Intersection:** I engineer **High-Performance Systems** where **Web3 (Solana/Rust)** meets **Agentic AI**. Who loves to automate boring tasks with AI.<br>
+### 🤖 Agentic AI Experiments (The "Lazy" Engineer Series)
+*Built out of frustration with boring, repetitive tasks.*
 
-✔️ **Current Technical Focus:**
-   * **Agentic Workflows:** Designing self-healing agents with **Multimodal capabilities** (Vision + Text) that can "see" and navigate interfaces.
-   * **Structured Intelligence:** Enforcing strict schema outputs (Pydantic/JSON) to turn chaotic LLM reasoning into reliable system actions.
-   * **Systems Architecture:** Leveraging **Rust**, **Golang**, and **Wasm** for low-latency execution in browser automation and distributed networks.
+* **Auto-Tailor Agent:** A fully autonomous pipeline that reads a JD and **re-writes my LaTeX resume** to match keywords in seconds. 
+* **"Meme-Lord" Publisher:** A **vision-based agent** that curates Reddit memes, quality-checks them with AI, and posts them to Instagram hands-free. 
+* **The "Style-Snatcher":** A local **visual-search engine** that bypasses Amazon APIs to match real-world photos to product listings using image embeddings.
 
-✔️ Few AI projects I built:
-  1. The Self-Rewriting Resume Agent: A fully autonomous LaTeX pipeline that contextually tailors my CV to any Job Description URL in seconds.
-  2. The "Meme-Lord" Content Bot: An agentic Instagram publisher that visually curates, quality-checks, and posts Reddit content completely hands-free.
-  3. The "Style-Snatcher" Engine: A local visual-search agent that bypasses e-commerce APIs to find product matches across Amazon & Flipkart using only image inputs.
+### 🦀 DeFi & Systems Engineering
+*High-performance infrastructure built with Rust & Solana.*
 
-✔️ Defi Web3 projects I built:
-  1. NetShield: A bare-metal packet firewall built with eBPF (the same bytecode engine used in Solana's Sealevel runtime). It sits in front of the kernel for high-performance packet parsing. [Featured in eBPF Weekly] blog link: [!(https://diobr4nd0.github.io/2025/06/27/Understanding-Network-Packet-Offsets-Safe-Parsing-in-eBPF/)].
-  2. LogBet: A decentralized prediction market on Solana implementing the LMSR (Logarithmic Market Scoring Rule) algorithm for automated market making in Rust.
-  3. Cero (Zeeve): Architected the first decentralized sequencer network for Rollups, focusing on removing single points of failure and mitigating MEV risks.
-  and many more...
+* **NetShield:** A bare-metal firewall using **eBPF** (Solana's execution engine) for safe, kernel-level packet parsing. [**Read the Case Study**]([link]https://diobr4nd0.github.io/2025/06/27/Understanding-Network-Packet-Offsets-Safe-Parsing-in-eBPF/)
+* **LogBet:** A decentralized prediction market on Solana implementing the **LMSR algorithm** for automated market making in Rust.
+* **Cero (Zeeve):** Architected the first **decentralized sequencer network** for Rollups, mitigating MEV risks and removing single points of failure.
 <br>
 
 
