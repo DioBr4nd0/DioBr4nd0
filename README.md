@@ -6,24 +6,42 @@
 <h2 align="center">👋 Good to have you here!!</h2>
 
 🌱 **About myself**<br>
-I am **Rupesh Prajapati** (IIT Roorkee), a curious Engineer sitting at the intersection of **High-Performance Web3** and **Agentic AI**.
+# Rupesh Prajapati
+**Founding Systems & AI Engineer** | IIT Roorkee Alumnus
+
+I architect and build high-performance AI infrastructure, autonomous agent state machines, and low-level systems. I specialize in moving AI out of fragile API wrappers and into robust, scalable, and hardware-accelerated production environments.
+
+### 🧠 Core Competencies
+* **AI Infrastructure:** High-throughput LLM Inference, GPU/CUDA Acceleration, RAG Architecture, Evals (LangSmith, Langfuse).
+* **Agentic Systems:** LangGraph, Multi-Agent Orchestration, n8n Automation Workflows, Local LLMs (Ollama).
+* **High-Performance Systems:** Rust, C++, eBPF, Advanced Node.js Architecture.
+* **Production Engineering:** Kubernetes, Helm, CI/CD Pipelines, Distributed Systems.
 
 ---
 
-### 🤖 Agentic AI Experiments (The "Lazy" Engineer Series)
-*Built out of frustration with boring, repetitive tasks.*
+### ⚡ Featured Engineering 
 
-* **Auto-Tailor Agent:** A fully autonomous pipeline that reads a JD and **re-writes my LaTeX resume** to match keywords in seconds. 
-* **"Meme-Lord" Publisher:** A **vision-based agent** that curates Reddit memes, quality-checks them with AI, and posts them to Instagram hands-free. 
-* **The "Style-Snatcher":** A local **visual-search engine** that bypasses Amazon APIs to match real-world photos to product listings using image embeddings.
+**1. High-Throughput LLM Inference Gateway (Rust & CUDA)**
+* Architected a backend system for managing high-volume LLM requests natively in Rust.
+* Engineered request batching, rate limiting, and observability pipelines.
+* Leveraged CUDA for hardware-accelerated performance, bypassing standard high-latency API bottlenecks.
 
-### 🦀 DeFi & Systems Engineering
-*High-performance infrastructure built with Rust & Solana.*
+**2. Autonomous Code-Generation Agent ("Mini-Cursor" CLI)**
+* Built a local, autonomous AI coding agent using LangGraph and Ollama.
+* Implemented graph-based state machines to allow the agent to iteratively write, test, and self-correct code execution.
 
-* **NetShield:** A bare-metal firewall using **eBPF** (Solana's execution engine) for safe, kernel-level packet parsing. [**Read the Case Study**]([link]https://diobr4nd0.github.io/2025/06/27/Understanding-Network-Packet-Offsets-Safe-Parsing-in-eBPF/)
-* **LogBet:** A decentralized prediction market on Solana implementing the **LMSR algorithm** for automated market making in Rust.
-* **Cero (Zeeve):** Architected the first **decentralized sequencer network** for Rollups, mitigating MEV risks and removing single points of failure.
-<br>
+**3. Privacy-Preserving AI: Homomorphic Encryption Engine (C++)**
+* Developed a secure face-vector matching system utilizing CKKS homomorphic encryption.
+* Optimized large-scale encrypted vector searches utilizing FIDESlib and OpenFHE for bare-metal performance.
+
+**4. Bare-Metal Systems: NetShield (Rust & eBPF)**
+* Engineered a bare-metal firewall utilizing Solana's execution engine (eBPF) for safe, highly-performant kernel-level packet parsing.
+
+---
+
+### 📈 Current Focus
+* Building out fully autonomous, human-in-the-loop (HITL) B2B lead generation infrastructure using n8n and local inference.
+* Deepening expertise in native GPU acceleration and custom LLM routing architectures.
 
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
