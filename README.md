@@ -59,14 +59,7 @@ I architect and build high-performance AI infrastructure, autonomous agent state
  📶 Stats:<br><br>
  
  
-<!--  TOP LANGUAGES STATISTICS -->
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioBr4nd0&layout=donut-vertical&hide=html,css,dart,typescript,scss,cmake&theme=radical)
- 
- ---
- 
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/DioBr4nd0/count.svg?align=center)
+
 
 
 <!-- GITHUB STATISTICS -->
