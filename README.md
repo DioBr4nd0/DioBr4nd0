@@ -14,34 +14,32 @@ I architect and build high-performance AI infrastructure, autonomous agent state
 ### 🧠 Core Competencies
 * **AI Infrastructure:** High-throughput LLM Inference, GPU/CUDA Acceleration, RAG Architecture, Evals (LangSmith, Langfuse).
 * **Agentic Systems:** LangGraph, Multi-Agent Orchestration, n8n Automation Workflows, Local LLMs (Ollama).
-* **High-Performance Systems:** Rust, C++, eBPF, Advanced Node.js Architecture.
+* **High-Performance Systems:** Rust, Advanced Node.js Architecture, eBPF.
 * **Production Engineering:** Kubernetes, Helm, CI/CD Pipelines, Distributed Systems.
 
 ---
 
-### ⚡ Featured Engineering 
+### ⚡ Systems Architecture & Engineering
 
-**1. High-Throughput LLM Inference Gateway (Rust & CUDA)**
-* Architected a backend system for managing high-volume LLM requests natively in Rust.
-* Engineered request batching, rate limiting, and observability pipelines.
-* Leveraged CUDA for hardware-accelerated performance, bypassing standard high-latency API bottlenecks.
+**1. High-Throughput LLM Inference Systems (Rust, CUDA, HPC)**
+* Architected scalable backend systems natively in Rust for managing and routing high-volume LLM requests in production environments.
+* Engineered core infrastructure components including low-latency request batching, rigorous rate limiting, and comprehensive observability pipelines.
+* Integrated hardware-accelerated execution layers utilizing CUDA, completely bypassing standard high-latency API bottlenecks to achieve bare-metal inference performance.
 
-**2. Autonomous Code-Generation Agent ("Mini-Cursor" CLI)**
-* Built a local, autonomous AI coding agent using LangGraph and Ollama.
-* Implemented graph-based state machines to allow the agent to iteratively write, test, and self-correct code execution.
+**2. Autonomous Agentic Systems & State Machines (LangGraph, Ollama, n8n)**
+* Architected autonomous, multi-agent systems using LangGraph and local LLM inference (Ollama) to execute complex, multi-step cognitive workflows.
+* Engineered CLI-based agentic tools featuring graph-based state machines capable of iteratively writing, executing, testing, and self-correcting code dynamically.
+* Designed and deployed human-in-the-loop (HITL) automation pipelines utilizing n8n for high-signal data scraping, dynamic context assembly, and reliable workflow execution.
 
-**3. Privacy-Preserving AI: Homomorphic Encryption Engine (C++)**
-* Developed a secure face-vector matching system utilizing CKKS homomorphic encryption.
-* Optimized large-scale encrypted vector searches utilizing FIDESlib and OpenFHE for bare-metal performance.
-
-**4. Bare-Metal Systems: NetShield (Rust & eBPF)**
-* Engineered a bare-metal firewall utilizing Solana's execution engine (eBPF) for safe, highly-performant kernel-level packet parsing.
+**3. Bare-Metal & Network Security Systems (Rust, eBPF)**
+* Architected highly performant, bare-metal network systems utilizing Rust and eBPF for secure, kernel-level packet parsing and manipulation.
+* Engineered decentralized, high-throughput execution environments inspired by advanced blockchain infrastructure to ensure robust, fault-tolerant system design with zero single points of failure.
 
 ---
 
 ### 📈 Current Focus
-* Building out fully autonomous, human-in-the-loop (HITL) B2B lead generation infrastructure using n8n and local inference.
 * Deepening expertise in native GPU acceleration and custom LLM routing architectures.
+* Architecting fully autonomous, human-in-the-loop B2B infrastructure using n8n and local inference.
 
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
