@@ -7,14 +7,14 @@
 
 🌱 **About myself**<br>
 # Rupesh Prajapati
-**Founding Systems & AI Engineer** | IIT Roorkee Alumnus
+**Systems Engineer (AI & Crypto)** | IIT Roorkee Alumnus
 
-I architect and build high-performance AI infrastructure, autonomous agent state machines, and low-level systems. I specialize in moving AI out of fragile API wrappers and into robust, scalable, and hardware-accelerated production environments.
+I architect and build high-performance systems, infrastructure, autonomous agent state machines, and low-level systems. I specialize in moving AI out of fragile API wrappers and into robust, scalable, and hardware-accelerated production environments.
 
 ### 🧠 Core Competencies
 * **AI Infrastructure:** High-throughput LLM Inference, GPU/CUDA Acceleration, RAG Architecture, Evals (LangSmith, Langfuse).
 * **Agentic Systems:** LangGraph, Multi-Agent Orchestration, n8n Automation Workflows, Local LLMs (Ollama).
-* **High-Performance Systems:** Rust, Advanced Node.js Architecture, eBPF.
+* **High-Performance Systems:** Rust, Distributed Databases, Tokio, low latency, High performance computing, eBPF.
 * **Production Engineering:** Kubernetes, Helm, CI/CD Pipelines, Distributed Systems.
 
 ---
@@ -31,15 +31,12 @@ I architect and build high-performance AI infrastructure, autonomous agent state
 * Engineered CLI-based agentic tools featuring graph-based state machines capable of iteratively writing, executing, testing, and self-correcting code dynamically.
 * Designed and deployed human-in-the-loop (HITL) automation pipelines utilizing n8n for high-signal data scraping, dynamic context assembly, and reliable workflow execution.
 
-**3. Bare-Metal & Network Security Systems (Rust, eBPF)**
+**3. Bare-Metal & Network Security Systems (Rust, eBPF, CPU)**
 * Architected highly performant, bare-metal network systems utilizing Rust and eBPF for secure, kernel-level packet parsing and manipulation.
 * Engineered decentralized, high-throughput execution environments inspired by advanced blockchain infrastructure to ensure robust, fault-tolerant system design with zero single points of failure.
 
 ---
 
-### 📈 Current Focus
-* Deepening expertise in native GPU acceleration and custom LLM routing architectures.
-* Architecting fully autonomous, human-in-the-loop B2B infrastructure using n8n and local inference.
 
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
