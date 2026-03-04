@@ -27,6 +27,11 @@ I architect and build high-performance systems, infrastructure, autonomous agent
 * Engineered core infrastructure components including low-latency request batching, rigorous rate limiting, and comprehensive observability pipelines.
 * Integrated hardware-accelerated execution layers utilizing CUDA, completely bypassing standard high-latency API bottlenecks to achieve bare-metal inference performance.
 
+**2. Cero (L2 Distributed Rollup Sequencer)
+* Worked on transaction sequencing/ordering, Validator selection, Rewards Distrubuion.
+* Block Propagation with CometBFT, Geth l1 settlement, DA solutions (Celestia, Avail)
+* Polygon/Erigon CDK integration, Distributed database sync, p2p 
+
 **2. Autonomous Agentic Systems & State Machines (LangGraph, Ollama, n8n)**
 * Architected autonomous, multi-agent systems using LangGraph and local LLM inference (Ollama) to execute complex, multi-step cognitive workflows.
 * Engineered CLI-based agentic tools featuring graph-based state machines capable of iteratively writing, executing, testing, and self-correcting code dynamically.
