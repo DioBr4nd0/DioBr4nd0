@@ -13,6 +13,7 @@ I architect and build high-performance systems, infrastructure, autonomous agent
 
 ### 🧠 Core Competencies
 * **AI Infrastructure:** High-throughput LLM Inference, GPU/CUDA Acceleration, RAG Architecture, Evals (LangSmith, Langfuse).
+* **Crypto:** L2s, Ethereum, Rollups, Data availability solutions, Smart Contracts.  
 * **Agentic Systems:** LangGraph, Multi-Agent Orchestration, n8n Automation Workflows, Local LLMs (Ollama).
 * **High-Performance Systems:** Rust, Distributed Databases, Tokio, low latency, High performance computing, eBPF.
 * **Production Engineering:** Kubernetes, Helm, CI/CD Pipelines, Distributed Systems.
