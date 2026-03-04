@@ -27,17 +27,17 @@ I architect and build high-performance systems, infrastructure, autonomous agent
 * Engineered core infrastructure components including low-latency request batching, rigorous rate limiting, and comprehensive observability pipelines.
 * Integrated hardware-accelerated execution layers utilizing CUDA, completely bypassing standard high-latency API bottlenecks to achieve bare-metal inference performance.
 
-**2. Cero (L2 Distributed Rollup Sequencer)
+**2. Cero (L2 Distributed Rollup Sequencer)**
 * Worked on transaction sequencing/ordering, Validator selection, Rewards Distrubuion.
 * Block Propagation with CometBFT, Geth l1 settlement, DA solutions (Celestia, Avail)
 * Polygon/Erigon CDK integration, Distributed database sync, p2p 
 
-**2. Autonomous Agentic Systems & State Machines (LangGraph, Ollama, n8n)**
+**3. Autonomous Agentic Systems & State Machines (LangGraph, Ollama, n8n)**
 * Architected autonomous, multi-agent systems using LangGraph and local LLM inference (Ollama) to execute complex, multi-step cognitive workflows.
 * Engineered CLI-based agentic tools featuring graph-based state machines capable of iteratively writing, executing, testing, and self-correcting code dynamically.
 * Designed and deployed human-in-the-loop (HITL) automation pipelines utilizing n8n for high-signal data scraping, dynamic context assembly, and reliable workflow execution.
 
-**3. Bare-Metal & Network Security Systems (Rust, eBPF, CPU)**
+**4. Bare-Metal & Network Security Systems (Rust, eBPF, CPU)**
 * Architected highly performant, bare-metal network systems utilizing Rust and eBPF for secure, kernel-level packet parsing and manipulation.
 * Engineered decentralized, high-throughput execution environments inspired by advanced blockchain infrastructure to ensure robust, fault-tolerant system design with zero single points of failure.
 
